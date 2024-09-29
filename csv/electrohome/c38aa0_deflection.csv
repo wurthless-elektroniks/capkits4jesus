@@ -1,0 +1,17 @@
+﻿Position,Voltage,Capacitance,Diameter,Notes
+C209,160v,47uF,16mm,Axial - len approx 33mm
+C220,25v,470uF,16mm,
+C401,16v,4.7uF,5mm,Bipolar
+C219,50v,1uF,5mm,Bipolar
+C302,50v,47uF,10mm,
+C301,100v,47uF,13mm,
+C201,16v,33uF,6.5mm,
+C101,16v,47uF,7.6mm,
+C202,50v,1uF,5mm,
+C205,25v,4.7uF,5mm,
+C106,16v,47uF,8mm,
+C108,50v,1uF,5mm,
+C109,50v,1uF,5mm,
+C114,16v,100uF,10.2mm,
+C110,50v,10uF,7.3mm,
+C111,100v,220uF,18.2mm,

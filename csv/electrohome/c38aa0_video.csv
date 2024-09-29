@@ -1,0 +1,22 @@
+﻿Position,Voltage,Capacitance,Diameter,Notes
+C904,200v,600uF,35.5mm,4-pin snap-in
+C512,160v,10uF,10.2mm,
+C905,160v,10uF,10.2mm,
+C206,16v,470uF,12.5mm,
+C317,50v,0.47uF,5.15mm,
+C907,160v,1uF,6.4mm,
+C319,25v,4.7uF,5.2mm,
+C321,25v,4.7uF,5.2mm,
+C315,25v,4.7uF,5.2mm,
+C303,16v,10uF,5mm,
+C307,50v,1uF,5.2mm,Bipolar
+C208,50v,3.3uF,6.5mm,Bipolar
+C218,16v,10uF,5.2mm,
+C203,50v,1uF,5.2mm,
+C201,25v,3.3uF,5.2mm,
+C205,16v,10uF,5.2mm,
+C124,16v,220uF,10mm,
+C505,16v,47uF,8mm,
+C514,50v,1uF,5.2mm,
+C506,50v,1uF,5.2mm,
+C119,16v,33uF,6.5mm,
